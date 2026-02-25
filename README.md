@@ -26,11 +26,6 @@ cd Bernoulli
 python bernoulli_sample.py --sampler=<SAMPLER>
 ```
 
-## Sampling From Ising Models
-Please run
-```
-python ising_sample.py --sampler=<SAMPLER>
-```
 ## Sampling From Restricted Boltzmann Machines
 Please run
 ```
