@@ -36,10 +36,14 @@ Please run
 ```
 python rbm_sample.py --sampler=<SAMPLER>
 ```
-## TSP
-Please run
+## Travelling Salesman Problem
+Enter Directory
 ```
-python tsp_sample.py --sampler=<SAMPLER>
+./TSP
+```
+Then run
+```
+python TSP.py --sampler=<SAMPLER> 
 ```
 
 ## Binary Bayesian Neural Networks
