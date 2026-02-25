@@ -1,0 +1,21 @@
+NAME : eil14
+COMMENT : 14-city problem taken from 51-city problem (Christofides/Eilon)
+TYPE : TSP
+DIMENSION : 14
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 37 52
+2 49 49
+3 52 64
+4 20 26
+5 40 30
+6 21 47
+7 17 63
+8 31 62
+9 52 33
+10 51 21
+11 42 41
+12 31 32
+13 5 25
+14 12 42
+EOF
